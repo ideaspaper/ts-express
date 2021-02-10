@@ -1,7 +1,4 @@
-import * as dotenv from 'dotenv';
-dotenv.config();
 import * as path from 'path';
-
 import * as express from 'express';
 import router = require('./routes/index');
 
